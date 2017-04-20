@@ -1,0 +1,23 @@
+{
+  "name": "poc-request-img-and-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooiliang/poc-request-img-and-upload.git"
+  },
+  "author": "wooiliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooiliang/poc-request-img-and-upload/issues"
+  },
+  "homepage": "https://github.com/wooiliang/poc-request-img-and-upload#readme",
+  "dependencies": {
+    "form-data": "^2.1.4",
+    "request": "^2.81.0"
+  }
+}
